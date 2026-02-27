@@ -1,0 +1,67 @@
+Course Mnemonic,Course Title,Instructor,Room,Days,Start Time,End Time
+DS 1001,Foundation of Data Science,Brian Wright,ER,Mo We,02:00 PM,03:15 PM
+DS 1001,Foundation of Data Science,Ali Rivera,ER,Fr,02:00 PM,02:50 PM
+DS 1001,Foundation of Data Science,TBD,ER,Fr,12:00 PM,12:50 PM
+DS 1001,Foundation of Data Science,Ali Rivera,ER,Fr,01:00 PM,01:50 PM
+DS 1001,Foundation of Data Science,TBD,ER,Fr,01:00 PM,01:50 PM
+DS 1002,Programming for Data Science,Mai Dahshan,ER,Mo We,03:30 PM,04:45 PM
+DS 1002,Programming for Data Science,Mai Dahshan,ER,Tu Th,02:00 PM,03:15 PM
+DS 2002,Data Science Systems,Jon Tupitza,ER,Mo We Fr,09:00 AM,09:50 AM
+DS 2002,Data Science Systems,Jason Williamson,ER,Mo We Fr,10:00 AM,10:50 AM
+DS 2002,Data Science Systems,Karsten Siller,ER,Mo We Fr,09:00 AM,09:50 AM
+DS 2003,Communicating with Data,Nur Yildirim,ER,Tu Th,09:30 AM,10:45 AM
+DS 2003,Communicating with Data,Hannah Bako,ER,Mo We Fr,11:00 AM,11:50 AM
+DS 2004,Data Ethics,Emanuel Moss,ER,Tu Th,11:00 AM,12:15 PM
+DS 2004,Data Ethics,David Danks,ER,Tu Th,12:30 PM,01:45 PM
+DS 2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,ER,Mo We,02:00 PM,03:15 PM
+DS 2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,ER,Mo We,03:30 PM,04:45 PM
+DS 3001,Foundations of Machine Learning,Terence Johnson,ER,Tu Th,12:30 PM,01:45 PM
+DS 3001,Foundations of Machine Learning,Cheng Peng,ER,Tu Th,09:30 AM,10:45 AM
+DS 3001,Foundations of Machine Learning,Michael Freenor,ER,Tu Th,03:30 PM,04:45 PM
+DS 3001,Foundations of Machine Learning,Ethan Nelson,ER,Mo We,05:00 PM,06:15 PM
+DS 3021,Analytics I: Foundations of Machine Learning,Brian Wright,ER,Tu Th,02:00 PM,03:15 PM
+DS 3021,Analytics I: Foundations of Machine Learning,Terence Johnson,ER,Tu Th,03:30 PM,04:45 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,ER,Tu Th,11:00 AM,12:15 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,ER,We,01:00 PM,01:50 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,ER,Tu Th,12:30 PM,01:45 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,ER,Mo,01:00 PM,01:50 PM
+DS 3026,Principles of Inference and Prediction,Prince Afriyie,ER,Mo We,02:00 PM,03:15 PM
+DS 3026,Principles of Inference and Prediction,Prince Afriyie,ER,Mo We,03:30 PM,04:45 PM
+DS 4002,Data Science Project,Javier Rasero,ER,Mo We Fr,10:00 AM,10:50 AM
+DS 4002,Data Science Project,Karsten Siller,ER,Mo We Fr,11:00 AM,11:50 AM
+DS 4023,Data Design II: Interactive Applications,Mai Dahshan,ER,Tu Th,12:30 PM,01:45 PM
+DS 4024,Value II: Explainable AI,Farhana Faruqe,ER,Tu Th,02:00 PM,03:15 PM
+DS 4024,Value II: Explainable AI,Chirag Agarwal,ER,Tu Th,03:30 PM,04:45 PM
+DS 4125,Introduction to Deep Learning,Jianxin Xie,ER,Mo We Fr,10:00 AM,10:50 AM
+DS 4320,Data by Design,Loreto Alonzi,ER,Mo We,02:00 PM,03:15 PM
+DS 4320,Data by Design,Loreto Alonzi,ER,Mo We,03:30 PM,04:45 PM
+DS 5001,Text as Data,Rafael Alvarado,ER,Mo We Fr,11:00 AM,11:50 AM
+DS 5001,Text as Data,Sree Mallikarjun,ER,Tu,06:00 PM,07:00 PM
+DS 5003,Healthcare Data Science,Christian Wernz,ER,Tu,07:15 PM,08:15 PM
+DS 5007,Don't Invent The Torment Nexus: The History of Technology & Work,Mar Hicks,ER,Tu,08:30 PM,09:30 PM
+DS 5012,Computation for Data Science,Yuri Malitsky,ER,We,08:30 PM,09:30 PM
+DS 5023,Interactive Applications,Mai Dahshan,ER,Tu Th,12:30 PM,01:45 PM
+DS 5030,Understanding Uncertainty,Jeffrey Woo,ER,Tu,07:15 PM,08:15 PM
+DS 5070,Deep Learning in Environmental Science,Antonios Mamalakis,ER,Tu Th,09:30 AM,10:45 AM
+DS 5220,Advanced Cloud Computing,Neal Magee,ER,Mo We Fr,12:00 PM,12:50 PM
+DS 6001,Data Engineering I: Data Pipeline Architecture,Jonathan Kropko,ER,Tu,08:30 PM,09:30 PM
+DS 6002,Ethics of Big Data I,Farhana Faruqe,ER,Tu Th,09:30 AM,10:45 AM
+DS 6002,Ethics of Big Data I,Farhana Faruqe,ER,Tu Th,11:00 AM,12:15 PM
+DS 6002,Ethics of Big Data I,Renee Cummings,ER,Th,06:00 PM,07:00 PM
+DS 6015,Data Science Capstone,Philip Waggoner,ER,Th,07:15 PM,09:15 PM
+DS 6015,Data Science Capstone,Rafael Alvarado,ER,Th,07:15 PM,09:15 PM
+DS 6015,Data Science Capstone,Adam Tashman,ER,Th,07:15 PM,09:15 PM
+DS 6021,Machine Learning I: Introduction to Predictive Modeling,Jeffrey Woo,ER,We,07:15 PM,08:15 PM
+DS 6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,ER,Tu Th,09:30 AM,10:45 AM
+DS 6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,ER,Tu Th,11:00 AM,12:15 PM
+DS 6050,Machine Learning III: Deep Learning,Tom Hartvigsen,ER,Mo We Fr,10:00 AM,10:50 AM
+DS 6050,Machine Learning III: Deep Learning,Tom Hartvigsen,ER,Mo We Fr,11:00 AM,11:50 AM
+DS 6050,Machine Learning III: Deep Learning,Heman Shakeri,ER,We,07:15 PM,08:15 PM
+DS 6210,Computation II: Numerical Analysis & Optimization,Heman Shakeri,ER,Mo We,12:30 PM,01:45 PM
+DS 6310,Theory II: Inference & Prediction,Jordan Bryan; Thomas Stewart,ER,Tu Th,09:30 AM,10:45 AM
+DS 6404,Physics-Aware Deep Learning,Stephen Baek,ER,Tu Th,11:00 AM,12:15 PM
+DS 6410,Advanced Machine Learning II: Methods & Application,Aiying Zhang,ER,Mo We,09:30 AM,10:45 AM
+DS 6425,Time Series Modeling,Don Brown,ER,Mo We,02:00 PM,03:15 PM
+DS 6700,"Value I: Data Ethics, Policy and Governance",Jess Reia,ER,Mo We,03:30 PM,04:45 PM
+DS 7600,Design I: Human-Centered Design,Nur Yildirim,ER,Tu Th,02:00 PM,03:15 PM
+DS 8104,Network Science,Alex Gates,ER,Tu Th,03:30 PM,04:45 PM
